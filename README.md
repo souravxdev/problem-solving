@@ -1,6 +1,6 @@
-# Competitive Programming Journey
+# Problem Solving & Competitive Programming Journey
 
-Welcome to my **Competitive Programming Repository** - a structured archive of all my solved problems, organized by platform and difficulty.  
+Welcome to my **Problem Solving & Competitive Programming Repository** - a structured archive of all my solved problems, organized by platform and difficulty.  
 This repository is built to document my growth, showcase clean coding standards, and share reusable problem-solving patterns with the community.
 
 
