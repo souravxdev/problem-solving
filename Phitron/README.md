@@ -1,7 +1,7 @@
 # Phitron Problem Solving Repository
 
 Welcome to the **Phitron Problem Solving** section of my competitive programming journey!  
-This folder contains all **problem statements** and **solutions** organized systematically for easy navigation and future reference.
+This folder contains all **problem statements** and **solutions** organized systematically for practice tracking, documentation, and learning reference.
 
 ## Folder Structure
 
