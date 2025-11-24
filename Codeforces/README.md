@@ -52,6 +52,7 @@ This collection is built to:
 | 005 | Even Numbers                       | [View Problem](./problems/005_Even_Numbers.md) |
 | 006 | Max                                | [View Problem](./problems/006_Max.md) |
 | 007 | Multiplication table               | [View Problem](./problems/007_Multiplication_table.md) |
+| 008 | Divisor                            | [View Problem](./problems/008_Divisor.md) |
 
 
 ### Solutions
@@ -65,6 +66,7 @@ This collection is built to:
 | 005 | Even Numbers                       | [View Solution](./solutions/005_Even_Numbers.c) |
 | 006 | Max                                | [View Solution](./solutions/006_Max.c) |
 | 007 | Multiplication table               | [View Solution](./solutions/007_Multiplication_table.c) |
+| 008 | Divisor                            | [View Solution](./solutions/008_Divisor.c) |
 
 
 
