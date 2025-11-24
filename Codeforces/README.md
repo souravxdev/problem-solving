@@ -43,16 +43,28 @@ This collection is built to:
 
 ### Problems
 
-| # | Problem Title | Problem Statement |
-|---|----------------|------------------|
-
+| #   | Problem Title  | Problem Statement |
+|-----|----------------|-------------------|
+| 001 | Welcome for you with Conditionals  | [View Problem](./problems/001_Welcome_for_you_with_Conditions.md) |
+| 002 | Multiples                          | [View Problem](./problems/002_Multiples.md) |
+| 003 | Max and Min                        | [View Problem](./problems/003_Max_and_Min.md) |
+| 004 | 1 to N                             | [View Problem](./problems/004_1_to_N.md) |
+| 005 | Even Numbers                       | [View Problem](./problems/005_Even_Numbers.md) |
+| 006 | Max                                | [View Problem](./problems/006_Max.md) |
+| 007 | Multiplication table               | [View Problem](./problems/007_Multiplication_table.md) |
 
 
 ### Solutions
 
 | # | Solution File | Solution Code |
 |---|----------------|---------------|
-
+| 001 | Welcome for you with Conditionals  | [View Solution](./solutions/001_Welcome_for_you_with_Conditions.c) |
+| 002 | Multiples                          | [View Solution](./solutions/002_Multiples.c) |
+| 003 | Max and Min                        | [View Solution](./solutions/003_Max_and_Min.c) |
+| 004 | 1 to N                             | [View Solution](./solutions/004_1_to_N.c) |
+| 005 | Even Numbers                       | [View Solution](./solutions/005_Even_Numbers.c) |
+| 006 | Max                                | [View Solution](./solutions/006_Max.c) |
+| 007 | Multiplication table               | [View Solution](./solutions/007_Multiplication_table.c) |
 
 
 

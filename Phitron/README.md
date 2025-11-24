@@ -5,26 +5,27 @@ This folder contains all **problem statements** and **solutions** organized syst
 
 ## Folder Structure
 
-|  Title    | Description                          | Link                                |
-|-----------|--------------------------------------|-------------------------------------|
+|  Title    | Description                               | Link                           |
+|-----------|-------------------------------------------|--------------------------------|
 | problems  | All problem statements in Markdown format | [View Problems](./problems/)   |
 | solutions | Corresponding code solutions (C / C++)    | [View Solutions](./solutions/) |
 
 Each problem in the `problems/` folder includes:
-- Clear **problem statement**
+- A clear **problem statement**
 - **Constraints** and **examples**
-- **Input/Output format**
+- Proper **input/Output format** definitions
+- An **explanation** containing hints to solve
 - Problem **tags** and **author information**
 
 Each solution in the `solutions/` folder follows:
-- Consistent **author signature format**
-- Clean **code style** with proper indentation
-- Focus on **clarity**, **efficiency**, and **readability**
+- A clean, consistent **author signature format**
+- Proper **formatting, readability**, and **efficiency**
+- Focus on **logical clarity** and **competitive programming standards**
 
 ## Purpose
 
 This collection is created to:
-- Document all solved **Phitron OJ Problems** in a structured way  
+- Keep track of all **Phitron problems solutions** I’ve solved in a structured way  
 - Improve coding consistency and problem analysis  
 - Showcase clean, well-formatted solutions for future learners and recruiters  
 
